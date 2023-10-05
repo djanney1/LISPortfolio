@@ -3,20 +3,20 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Danielle Janney"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/daniellejanney/
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://github.com/djanney1/LISPortfolio
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2023, Danielle Janney"
 
 format:
   html:
