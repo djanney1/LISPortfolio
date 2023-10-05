@@ -3,7 +3,7 @@ title: "Portfolio"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_20180605_003429_197.jpg
 ---
 
 :::{#me}
