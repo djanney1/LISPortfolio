@@ -3,12 +3,14 @@ title: "Portfolio"
 about:
   id: me
   template: broadside
-  image: img/IMG_20180605_003429_197.jpg
+  image: img/me.jpg
 ---
 
 :::{#me}
 
 ## About Me
+######### My career as an MLIS student began while working in the food service industry in the fall of 2020. By February of 2022, I found work in a public library as a part-time library assistant and a full-time position followed nine months later. My experience in restaurants prepared me well for managing interactions within the library setting: I am capable of listening and fulfilling needs, understanding difficulties with technologies, and I do not hesitate to ask for support.
+######### As much as I think I may know, I realize there is always more to learn and find comfort in learning with those that ask for help.
 
 ## Education
 ###### University of South Florida

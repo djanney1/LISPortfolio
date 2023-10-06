@@ -2,28 +2,28 @@
   {
     "objectID": "projects.html#systems-and-services",
     "href": "projects.html#systems-and-services",
-    "title": "Projects",
+    "title": "LIS Projects",
     "section": "Systems and Services",
     "text": "Systems and Services"
   },
   {
     "objectID": "projects.html#knowledge-representation",
     "href": "projects.html#knowledge-representation",
-    "title": "Projects",
+    "title": "LIS Projects",
     "section": "Knowledge Representation",
     "text": "Knowledge Representation"
   },
   {
     "objectID": "projects.html#theory-and-praxis",
     "href": "projects.html#theory-and-praxis",
-    "title": "Projects",
+    "title": "LIS Projects",
     "section": "Theory and Praxis",
     "text": "Theory and Praxis"
   },
   {
     "objectID": "projects.html#extracurricular-certificates",
     "href": "projects.html#extracurricular-certificates",
-    "title": "Projects",
+    "title": "LIS Projects",
     "section": "Extracurricular Certificates",
     "text": "Extracurricular Certificates"
   },
@@ -32,7 +32,14 @@
     "href": "index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Master of Library and Information Science\n\n\nBachelor of Fine Arts\n\n\n\n\n\n\n\n\nLibrary Assistant"
+    "text": "My career as an MLIS student began while working in the food service industry in the fall of 2020. By February of 2022, I found work in a public library as a part-time library assistant and a full-time position followed nine months later. My experience in restaurants prepared me well for managing interactions within the library setting: I am capable of listening and fulfilling needs, understanding difficulties with technologies, and I do not hesitate to ask for support.\n\n\nAs much as I think I may know, I realize there is always more to learn and find comfort in learning with those that ask for help.\n\n\n\n\n\n\n\nMaster of Library and Information Science\n\n\nBachelor of Fine Arts\n\n\n\n\n\n\n\n\nLibrary Assistant"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Portfolio",
+    "section": "",
+    "text": "My career as an MLIS student began while working in the food service industry in the fall of 2020. By February of 2022, I found work in a public library as a part-time library assistant and a full-time position followed nine months later. My experience in restaurants prepared me well for managing interactions within the library setting: I am capable of listening and fulfilling needs, understanding difficulties with technologies, and I do not hesitate to ask for support.\n\n\nAs much as I think I may know, I realize there is always more to learn and find comfort in learning with those that ask for help."
   },
   {
     "objectID": "index.html#education",
@@ -47,5 +54,12 @@
     "title": "Portfolio",
     "section": "",
     "text": "Library Assistant"
+  },
+  {
+    "objectID": "art.html",
+    "href": "art.html",
+    "title": "Art",
+    "section": "",
+    "text": "image: img/"
   }
 ]

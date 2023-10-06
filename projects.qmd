@@ -1,8 +1,8 @@
 ---
-title: "Projects"
+title: "LIS Projects"
 ---
 
-## Leadership and Innovation
+## [Leadership and Innovation](https://djanney1.github.io/LISPortfolio/projects.html#leadership-and-innovation)
 
 ## Systems and Services
 
