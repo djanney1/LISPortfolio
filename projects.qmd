@@ -2,9 +2,9 @@
 title: "LIS Projects"
 ---
 
-## [Leadership and Innovation](https://djanney1.github.io/LISPortfolio/projects.html#leadership-and-innovation)
+## [Leadership and Innovation](leadership-and-innovation.html)
 
-## Systems and Services
+## [Systems and Services](systems-and-services.html)
 
 ## Knowledge Representation
 
