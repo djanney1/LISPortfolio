@@ -3,26 +3,41 @@ project:
   output-dir: docs
   
 website:
+  page-navigation: true
   title: "Danielle Janney's Portfolio"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
-      - art.qmd
-    tools:
+    
+  page-footer:
+    left: "&copy; Copyright 2023, Danielle Janney"
+    right:
       - icon: linkedin
         href: https://www.linkedin.com/in/daniellejanney/
       - icon: github
         href: https://github.com/djanney1/LISPortfolio
-  page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, Danielle Janney"
-
+    
+  navbar:
+    background: "#9CD5FF"
+    search: true
+    right:
+      - text: "Leadership and Innovation"
+        href: leadership-and-innovation.qmd
+      - text: "Systems and Services"
+        href: systems-and-services.qmd
+      - text: "Knowledge Representation"
+        href: knowledge-representation.qmd
+      - text: "Theory and Praxis"
+        href: theory-and-praxis.qmd
+      - text: "More"
+        menu: 
+          - text: "CV"
+            href: art.qmd
+          - text: "Certificates"
+            href: certificates.qmd
+          - text: "Art"
+            href: art.qmd
+        
 format:
   html:
-    theme: cerulean
+    theme: cosmo
     toc: true
 
 editor: source
-

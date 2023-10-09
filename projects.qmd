@@ -6,8 +6,8 @@ title: "LIS Projects"
 
 ## [Systems and Services](systems-and-services.html)
 
-## Knowledge Representation
+## [Knowledge Representation](knowledge-representation.html)
 
-## Theory and Praxis
+## [Theory and Praxis](theory-and-praxis.html)
 
-## Extracurricular Certificates
+## [Extracurricular Certificates](certificates.html)
