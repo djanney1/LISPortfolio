@@ -29,7 +29,7 @@ website:
       - text: "More"
         menu: 
           - text: "CV"
-            href: art.qmd
+            href: img/cv.pdf
           - text: "Certificates"
             href: certificates.qmd
           - text: "Art"
