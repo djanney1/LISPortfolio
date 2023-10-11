@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Hi, I'm Danielle"
 about:
   id: me
   template: broadside
@@ -8,18 +8,7 @@ about:
 
 :::{#me}
 
-######### My career as an MLIS student began while working in the food service industry in the fall of 2020. By February of 2022, I found work in a public library as a part-time library assistant and a full-time position followed nine months later. My experience in restaurants prepared me well for managing interactions within the library setting: I am capable of listening and fulfilling needs, understanding difficulties with technologies, and I do not hesitate to ask for support.
+######### My career as an MLIS student began while working in the food service industry in the fall of 2020. By February of 2022, I found work in a public library as a part-time library assistant and a full-time position followed nine months later. My experience in restaurants prepared me well for the library setting: I am capable of listening and fulfilling needs, understanding difficulties with technology, and I do not hesitate to ask for support.
 ######### As much as I think I may know, I realize there is always more to learn and find comfort in learning with those that need help.
-
-## Education
-###### University of South Florida | Tampa, FL
-######## Master of Library and Information Science, August 2020 - present
-######## Bachelor of Fine Arts, January 2012 - June 2015
-###### State College of Florida | Bradenton, FL
-######## Associate of Arts, January 2009 - December 2011
-
-## Experience
-###### Clearwater Public Library System | Clearwater, FL
-####### Library Assistant, January 2022 - present
 
 :::
