@@ -1,42 +1,12 @@
-### Edit `_quarto.yml` (RStudio)
+### My MLIS Portfolio
 
-Tip: From the file pane in RStudio, open `README.md`, which contains these instructions. You can delete steps as you complete them.
+The website djanney1.github.io/LISPortfolio testifies to my ability to utilize R Studio, the R and Quarto programming languages, and Google. I went into building this portfolio knowing I wanted to use GitHub as a host after learning about it in LIS 5937 (R Programming). I am not an expert programmer by any means, but I am able to resolve issues with Google searches. I am proud of what I have created here.
 
-- [ ] 1. Edit the all caps info in  `_quarto.yml` to your info. It's very important to maintain the indenting structure in this file precisely as is -- be careful!
+This portfolio highlights my work from the University of South Florida's MLIS program, my personal artwork, and extracurricular certificates allocated from webinars.
 
-### Render the web site (RStudio)
-
-- [ ] 1. If you haven't already, click "Help" "Check for Updates" to make sure you have the latest version of RStudio (and thus have Quarto installed.)
-
-- [ ] 2. Render the web site locally by clicking the "Build" tap on the right and then "Render Website".
-
-- [ ] 3. Use `browseURL("docs/index.html")` to view your site locally (or just open `docs/index.html` in a browser).
-
-- [ ] 4. If it looks good, commit and push all changed files to GitHub. 
-
-(You will need to repeat steps 2 and 4 every time you wish to update the book online.)
-
-### Next steps
-
-- Add content to `index.qmd` as desired.
-
-- Add content to `projects.qmd` as desired.
-
-- Change the photo in the `img` folder to your photo.
-
-- Choose a theme from [https://bootswatch.com/](https://bootswatch.com/) and replace "cerulean" in `_quarto.yml` with your prefered theme.
-
-- Add additional tabs/sections by creating new `.qmd` files and listing them in `_quarto.yml` under `projects.qmd`.
-
-### Additional features
-
-Please consult the official guide to **quarto** web sites: [https://quarto.org/docs/websites/](https://quarto.org/docs/websites/)
-
-### Last but not least
-
-Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add the following to the end:	
+	
 
 *This repo was initially generated from a Quarto template available here: https://github.com/jtr13/website-template.*
 
-(And starring the repo would be nice too!)
+
 
