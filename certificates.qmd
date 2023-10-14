@@ -3,24 +3,25 @@ title: "Certificates"
 ---
 
 ######## As an employee of the Clearwater Public Library System, I have access to Florida Library Webinar Academy and have completed the following webinars to better inform myself and serve the community:
-- [20 Books to Recommend to Your Patrons](img/20-books-cert.pdf){target="_blank"}
-- [Best Picture Books Published in 2022 for Ages 1-6](img/picture-books2022-cert.pdf){target="_blank"}
-- [Cataloging 101 Part 1](img/cataloging101-cert.pdf){target="_blank"}
-- [Creating a Positive, Welcoming Workplace while Avoiding Toxic Positivity](img/positive-workplace-cer.pdf){target="_blank"}
-- [Developing Guiding Principles: What Makes a Leader?](img/guiding-principles-cert.pdf){target="_blank"}
-- [Do Your Research](img/do-you-research-cer.pdf){target="_blank"}
-- [Drones in the Library!](img/drones-cert.pdf){target="_blank"}
-- [Effective Communication Skills for New(er) Supervisors](img/effective-communication-cert.pdf){target="_blank"}
-- [Getting Started with GitHub for Libraries](img/github-for-libraries-cert.pdf){target="_blank"}
-- [Google Like a Librarian](img/google-librarian-cert.pdf){target="_blank"}
-- [Great Adult Books to Wow Your Patrons](img/adult-books-cert.pdf){target="_blank"}
-- [How Do We Do It? Practical Classification with Dewey Decimal Classification](img/dewey-cert.pdf){target="_blank"}
-- [How to Improve Your Workplace When You are Not the Boss](img/improve-workplace-cert.pdf){target="_blank"}
-- [Intentional Blindspots: Are You Seeing Only What You Want To See?](img/intentional blindspots-cert.pdf){target="_blank"}
-- [Personal Knowledge Management: Strategies and Tools](img/personal-knowledge-cert.pdf){target="_blank"}
-- [Readers Advisory Year in Review 2022](img/readers-adv2022.pdf){target="_blank"}
-- [Reasoning With Unreasonable Patrons: 6 Secrets for Making It Work](img/reasoning-cert.pdf){target="_blank"}
-- [The Yellow Cake Principle: Your Recipe for Influence and Success](img/yellowcake-cert.pdf){target="_blank"}
-- [Three-Dimensional and Naturally Occurring Objects](img/3d-objects-cert.pdf){target="_blank"}
-- [Unlocking the Potential of ChatGPT in Libraries: Enhancing and Automating Resources and Services](img/chaptgpt-cert.pdf){target="_blank"}
-- [What Do Older Patrons Need? Understanding Creative Wellbeing in Later Life](img/older-patrons-cert.pdf){target="_blank"}
+
+-   [20 Books to Recommend to Your Patrons](img/20-books-cert.pdf){target="_blank"}
+-   [Best Picture Books Published in 2022 for Ages 1-6](img/picture-books2022-cert.pdf){target="_blank"}
+-   [Cataloging 101 Part 1](img/cataloging101-cert.pdf){target="_blank"}
+-   [Creating a Positive, Welcoming Workplace while Avoiding Toxic Positivity](img/positive-workplace-cer.pdf){target="_blank"}
+-   [Developing Guiding Principles: What Makes a Leader?](img/guiding-principles-cert.pdf){target="_blank"}
+-   [Do Your Research](img/do-you-research-cer.pdf){target="_blank"}
+-   [Drones in the Library!](img/drones-cert.pdf){target="_blank"}
+-   [Effective Communication Skills for New(er) Supervisors](img/effective-communication-cert.pdf){target="_blank"}
+-   [Getting Started with GitHub for Libraries](img/github-for-libraries-cert.pdf){target="_blank"}
+-   [Google Like a Librarian](img/google-librarian-cert.pdf){target="_blank"}
+-   [Great Adult Books to Wow Your Patrons](img/adult-books-cert.pdf){target="_blank"}
+-   [How Do We Do It? Practical Classification with Dewey Decimal Classification](img/dewey-cert.pdf){target="_blank"}
+-   [How to Improve Your Workplace When You are Not the Boss](img/improve-workplace-cert.pdf){target="_blank"}
+-   [Intentional Blindspots: Are You Seeing Only What You Want To See?](img/intentional%20blindspots-cert.pdf){target="_blank"}
+-   [Personal Knowledge Management: Strategies and Tools](img/personal-knowledge-cert.pdf){target="_blank"}
+-   [Readers Advisory Year in Review 2022](img/readers-adv2022.pdf){target="_blank"}
+-   [Reasoning With Unreasonable Patrons: 6 Secrets for Making It Work](img/reasoning-cert.pdf){target="_blank"}
+-   [The Yellow Cake Principle: Your Recipe for Influence and Success](img/yellowcake-cert.pdf){target="_blank"}
+-   [Three-Dimensional and Naturally Occurring Objects](img/3d-objects-cert.pdf){target="_blank"}
+-   [Unlocking the Potential of ChatGPT in Libraries: Enhancing and Automating Resources and Services](img/chaptgpt-cert.pdf){target="_blank"}
+-   [What Do Older Patrons Need? Understanding Creative Wellbeing in Later Life](img/older-patrons-cert.pdf){target="_blank"}
