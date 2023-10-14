@@ -4,4 +4,4 @@ title: "Systems and Services"
 
 I created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that utilized resources available freely online and in the public domain.
 
-[![](img/libguide.png)](https://usflis.libguides.com/ringling-bros-and-barnum-and-bailey-circus)
+[![](img/libguide.png)](https://usflis.libguides.com/ringling-bros-and-barnum-and-bailey-circus){target="_blank"}
