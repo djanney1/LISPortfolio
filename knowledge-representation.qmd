@@ -4,9 +4,13 @@ title: "Knowledge Representation"
 
 #### **The examples provided on this page theorize and apply skills needed to represent information objects of various formats and utilize different technologies for knowledge representation.**
 
+------------------------------------------------------------------------
+
 The Danielle Janney Collection is a part of a greater project focused on cataloging natural history objects from Florida (for LIS 6726 Metadata). The project utilized Dublin Core to describe the metadata of the selected resources.
 
-[![](img/danielle-janney-collection.png)](https://usfseahorse.omeka.net/collections/show/1)
+[![](img/danielle-janney-collection.png)](https://usfseahorse.omeka.net/collections/show/1){target="_blank"}
+
+------------------------------------------------------------------------
 
 From my essay, [Understanding Metadata](img/understanding_metadata.pdf){target="_blank"}:
 

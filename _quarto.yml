@@ -30,8 +30,6 @@ website:
         menu: 
           - text: "CV"
             href: img/cv.pdf
-          - text: "Certificates"
-            href: certificates.qmd
           - text: "Art"
             href: art.qmd
         

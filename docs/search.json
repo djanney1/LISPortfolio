@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "theory-and-praxis.html",
+    "href": "theory-and-praxis.html",
+    "title": "Theory and Praxis",
+    "section": "",
+    "text": "The examples on this page describe professional practices of research within the field of library and information science."
+  },
+  {
     "objectID": "projects.html#systems-and-services",
     "href": "projects.html#systems-and-services",
     "title": "LIS Projects",
@@ -32,7 +39,7 @@
     "href": "knowledge-representation.html",
     "title": "Knowledge Representation",
     "section": "",
-    "text": "The examples provided on this page theorize and apply skills needed to represent information objects of various formats and utilize different technologies for knowledge representation.\nThe Danielle Janney Collection is a part of a greater project focused on cataloging natural history objects from Florida (for LIS 6726 Metadata). The project utilized Dublin Core to describe the metadata of the selected resources.\n\n\n\n\n\nFrom my essay, Understanding Metadata:\n\nMetadata in a highly digitized world is transforming the world’s access to information. Search engines at personal and institutional levels relay thousands of query results in less than a second. Interoperability of metadata schema within collections face the challenge of effective crosswalks while preparing for the next phase of Linked Data and entity relationship models. Metadata is not a new concept, but how it is interacted with is breaking ground to unite the information landscape."
+    "text": "The examples provided on this page theorize and apply skills needed to represent information objects of various formats and utilize different technologies for knowledge representation.\n\nThe Danielle Janney Collection is a part of a greater project focused on cataloging natural history objects from Florida (for LIS 6726 Metadata). The project utilized Dublin Core to describe the metadata of the selected resources.\n\n\n\n\n\n\nFrom my essay, Understanding Metadata:\n\nMetadata in a highly digitized world is transforming the world’s access to information. Search engines at personal and institutional levels relay thousands of query results in less than a second. Interoperability of metadata schema within collections face the challenge of effective crosswalks while preparing for the next phase of Linked Data and entity relationship models. Metadata is not a new concept, but how it is interacted with is breaking ground to unite the information landscape."
   },
   {
     "objectID": "certificates.html",
@@ -46,20 +53,20 @@
     "href": "index.html",
     "title": "Hi, I’m Danielle",
     "section": "",
-    "text": "My career as an MLIS student began while working in the food service industry in the fall of 2020. By February of 2022, I found work in a public library as a part-time library assistant and a full-time position followed nine months later. My experience in restaurants prepared me well for the library setting: I am capable of listening and fulfilling needs, understanding difficulties with technology, and I do not hesitate to ask for support.\n\n\nPursuing my degree and working in a library has afforded me the experience to exchange and impart knowledge learned from both environments."
+    "text": "My career as an MLIS student began while working in the food service industry in the fall of 2020. By February of 2022, I found work in a public library as a part-time library assistant and a full-time position followed nine months later. My experience in restaurants prepared me well for the library setting: I am capable of listening and fulfilling needs, understanding difficulties with technology, and I do not hesitate to ask for support.\n\n\nPursuing my degree and working in a library has granted me the experience to exchange knowledge between both environments. I am better able to acknowledge and appreciate the technological investments and challenges a public library may encounter on short notice, and the true social good that a library brings to its community."
   },
   {
     "objectID": "leadership-and-innovation.html",
     "href": "leadership-and-innovation.html",
     "title": "Leadership and Innovation",
     "section": "",
-    "text": "Poster: Managers"
+    "text": "The examples on this page display my abilities to individually problem-solve and collaboratively communicate, engage in professional and community activities, and demonstrate leadership skills.\n\nI have completed over 20 webinars presented by Florida Library Webinars since the beginning of my library career in February 2022. View my certificates here:"
   },
   {
     "objectID": "systems-and-services.html",
     "href": "systems-and-services.html",
     "title": "Systems and Services",
     "section": "",
-    "text": "I created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that utilized resources available freely online and in the public domain."
+    "text": "The examples on this page identify diverse resource needs of academic, government, and general public users.\n\nI created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that exhibits resources freely available on the internet from museums, archives, YouTube, and Google Books; details of print publications are also conveniently displayed.\n\n\n\n\n\n\nMy Reference Quest shows my processes of research for six questions that address various user needs. General internet research complemented USF’s academic databases to answer the distinct queries."
   }
 ]

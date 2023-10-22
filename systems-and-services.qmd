@@ -2,6 +2,14 @@
 title: "Systems and Services"
 ---
 
-I created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that utilized resources available freely online and in the public domain.
+#### **The examples on this page identify diverse resource needs of academic, government, and general public users.**
 
-[![](img/libguide.png)](https://usflis.libguides.com/ringling-bros-and-barnum-and-bailey-circus){target="_blank"}
+------------------------------------------------------------------------
+
+I created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that exhibits resources freely available on the internet from museums, archives, YouTube, and Google Books; details of print publications are also conveniently displayed.
+
+[![](img/libguide.png)](https://usflis.libguides.com/ringling-bros-and-barnum-and-bailey-circus)
+
+------------------------------------------------------------------------
+
+My [Reference Quest](img/reference_quest.pdf){target="_blank"} shows my processes of research for six questions that address various user needs. General internet research complemented USF's academic databases to answer the distinct queries.
