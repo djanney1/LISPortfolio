@@ -9,3 +9,5 @@ title: "Leadership and Innovation"
 I have completed over 20 webinars presented by [Florida Library Webinars](https://floridalibrarywebinars.org/){target="_blank"} since the beginning of my library career in February 2022. View my certificates here:
 
 [![](img/certificate_banner.png)](certificates.qmd)
+
+------------------------------------------------------------------------
