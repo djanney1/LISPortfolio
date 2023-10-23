@@ -8,10 +8,22 @@ title: "Knowledge Representation"
 
 The Danielle Janney Collection is a part of a greater project focused on cataloging natural history objects from Florida (for LIS 6726 Metadata). The project utilized Dublin Core to describe the metadata of the selected resources.
 
-[![](img/danielle-janney-collection.png)](https://usfseahorse.omeka.net/collections/show/1){target="_blank"}
+[![](img/danielle-janney-collection.png)](https://usfseahorse.omeka.net/collections/show/1)
+
+^click image to view the collection^
 
 ------------------------------------------------------------------------
 
 From my essay, [Understanding Metadata](img/understanding_metadata.pdf){target="_blank"}:
 
 > Metadata in a highly digitized world is transforming the world's access to information. Search engines at personal and institutional levels relay thousands of query results in less than a second. Interoperability of metadata schema within collections face the challenge of effective crosswalks while preparing for the next phase of Linked Data and entity relationship models. Metadata is not a new concept, but how it is interacted with is breaking ground to unite the information landscape.
+
+------------------------------------------------------------------------
+
+I learned the R programming language (LIS 5937), becoming familiar with RStudio and GitHub. I utilized a sample of food delivery data to ultimately create an [R package](https://github.com/djanney1/deliverystats/tree/master){target="_blank"} and [Markdown](https://rpubs.com/djanney1/deliverystats){target="_blank"} to compare days of the week, order totals, and tips received (sampled below).
+
+![](img/Rdelivery.png)
+
+I also kept a [blog](https://www.tumblr.com/d-janney){target="_blank"} of assignments throughout the semester to track process and progress.
+
+This portfolio website was created in RStudio and is hosted on GitHub.
