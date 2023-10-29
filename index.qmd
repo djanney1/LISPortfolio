@@ -3,18 +3,12 @@ title: "Hi, I'm Danielle"
 image: img/me_circle.png
 about:
   id: me
-  template: broadside
-  
+  template: trestles
   image-shape: round
 ---
 
 ::: {#me style="code-overflow: wrap"}
-
-------------------------------------------------------------------------
-
 ######### My career as an MLIS student began while working in the food service industry in the fall of 2020. By February of 2022, I found work in a public library as a part-time library assistant and a full-time position followed nine months later. My experience in restaurants prepared me well for the library setting: I am capable of listening and fulfilling needs, understanding difficulties with technology, and I do not hesitate to ask for support.
 
 ######### Pursuing my degree and working in a library has granted me the experience to exchange knowledge between both environments. I am better able to acknowledge and appreciate the technological investments and challenges a public library may encounter on short notice, and the true social good that a library brings to its community.
-
-------------------------------------------------------------------------
 :::
