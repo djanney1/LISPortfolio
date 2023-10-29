@@ -1,9 +1,10 @@
 ---
 title: "Hi, I'm Danielle"
+image: img/me_circle.png
 about:
   id: me
   template: broadside
-  image: img/me_circle.png
+  
   image-shape: round
 ---
 
