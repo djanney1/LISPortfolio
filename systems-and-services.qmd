@@ -2,7 +2,7 @@
 title: "Systems and Services"
 ---
 
-## **The examples on this page identify diverse information resource needs of users.**
+#### **The examples on this page identify diverse information resource needs of users.**
 
 I created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that exhibits resources freely available on the internet from museums, archives, YouTube, and Google Books; details of print publications are also conveniently displayed.
 
