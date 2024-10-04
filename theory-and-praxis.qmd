@@ -16,4 +16,4 @@ For the duration of my semester in Collection Development and Maintenance, I uti
 
 -   [Community Needs Assessment](img/community_needs_assessment.pdf){target="_blank"}
 
--   Building a Balanced Collection
+-   [Building a Balanced Collection](img/building_a_balanced_collection.pdf){target="_blank"}
