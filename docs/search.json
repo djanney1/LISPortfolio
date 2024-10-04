@@ -4,7 +4,7 @@
     "href": "theory-and-praxis.html",
     "title": "Theory and Praxis",
     "section": "",
-    "text": "The examples on this page describe professional practices of research within the field of library and information science."
+    "text": "The examples on this page describe professional practices of research within the field of library and information science.\n\nFrom my essay Leadership in Libraries: &gt;The most cited literature on library leadership would have one believe that it is an area unexplored and that its definition is elusive. However, there is one constant to focus on, and it is vision."
   },
   {
     "objectID": "projects.html#systems-and-services",
@@ -39,7 +39,7 @@
     "href": "knowledge-representation.html",
     "title": "Knowledge Representation",
     "section": "",
-    "text": "The examples provided on this page theorize and apply skills needed to represent information objects of various formats and utilize different technologies for knowledge representation.\n\nThe Danielle Janney Collection is a part of a greater project focused on cataloging natural history objects from Florida (for LIS 6726 Metadata). The project utilized Dublin Core to describe the metadata of the selected resources.\n\n\n\n\n\nclick image to view the collection\n\nFrom my essay, Understanding Metadata:\n\nMetadata in a highly digitized world is transforming the world’s access to information. Search engines at personal and institutional levels relay thousands of query results in less than a second. Interoperability of metadata schema within collections face the challenge of effective crosswalks while preparing for the next phase of Linked Data and entity relationship models. Metadata is not a new concept, but how it is interacted with is breaking ground to unite the information landscape.\n\n\nI learned the R programming language (LIS 5937), becoming familiar with RStudio and GitHub. I utilized a sample of food delivery data to ultimately create an R package and Markdown to compare days of the week, order totals, and tips received (sampled below).\n\nI also kept a blog of assignments throughout the semester to track process and progress.\nThis portfolio website was created in RStudio and is hosted on GitHub."
+    "text": "The examples provided on this page theorize and apply skills needed to represent information objects of various formats and utilize different technologies for knowledge representation.\n\nThe Danielle Janney Collection is a part of a greater project focused on cataloging natural history objects from Florida (for LIS 6726 Metadata). The project utilized Dublin Core to describe the metadata of the selected resources.\n\nclick image to view the collection\n\nFrom my essay, Understanding Metadata:\n\nMetadata in a highly digitized world is transforming the world’s access to information. Search engines at personal and institutional levels relay thousands of query results in less than a second. Interoperability of metadata schema within collections face the challenge of effective crosswalks while preparing for the next phase of Linked Data and entity relationship models. Metadata is not a new concept, but how it is interacted with is breaking ground to unite the information landscape.\n\n\nI learned the R programming language (LIS 5937), becoming familiar with RStudio and GitHub. I utilized a sample of food delivery data to ultimately create an R package and Markdown to compare days of the week, order totals, and tips received (sampled below).\n\nI also kept a blog of assignments throughout the semester to track process and progress.\nThis portfolio website was created in RStudio and is hosted on GitHub."
   },
   {
     "objectID": "certificates.html",
@@ -67,6 +67,6 @@
     "href": "systems-and-services.html",
     "title": "Systems and Services",
     "section": "",
-    "text": "The examples on this page identify diverse resource needs of academic, government, and general public users.\n\nI created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that exhibits resources freely available on the internet from museums, archives, YouTube, and Google Books; details of print publications are also conveniently displayed.\n\n\n\n\n\nclick image to view LibGuide\n\nMy Reference Quest shows my processes of research for six questions that address various user needs. General internet research complemented USF’s academic databases to answer the distinct queries."
+    "text": "The examples on this page identify diverse resource needs of academic, government, and general public users.\n\nI created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that exhibits resources freely available on the internet from museums, archives, YouTube, and Google Books; details of print publications are also conveniently displayed.\n\nclick image to view LibGuide\n\nMy Reference Quest shows my processes of research for six questions that address various user needs. General internet research complemented USF’s academic databases to answer the distinct queries."
   }
 ]
