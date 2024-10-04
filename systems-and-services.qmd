@@ -3,7 +3,7 @@ title: "Systems and Services"
 ---
 
 #### **The examples on this page identify diverse information resource needs of users.**
-
+use_git_config(user.name = "YourName", user.email = "your@mail.com"
 ------------------------------------------------------------------------
 
 I created a LibGuide usethis::use_git_config(user.name = "YourName", user.email = "your@mail.com")
