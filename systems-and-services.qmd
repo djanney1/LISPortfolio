@@ -2,11 +2,12 @@
 title: "Systems and Services"
 ---
 
-#### **The examples on this page identify diverse resource needs of academic, government, and general public users.**
+#### **The examples on this page identify diverse information resource needs of users.**
 
 ------------------------------------------------------------------------
 
-I created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that exhibits resources freely available on the internet from museums, archives, YouTube, and Google Books; details of print publications are also conveniently displayed.
+I created a LibGuide usethis::use_git_config(user.name = "YourName", user.email = "your@mail.com")
+for the Ringling Brothers and Barnum & Bailey Circus that exhibits resources freely available on the internet from museums, archives, YouTube, and Google Books; details of print publications are also conveniently displayed.
 
 [![](img/libguide.png)](https://usflis.libguides.com/ringling-bros-and-barnum-and-bailey-circus)
 
@@ -14,4 +15,8 @@ I created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that e
 
 ------------------------------------------------------------------------
 
-My [Reference Quest](img/reference_quest.pdf){target="_blank"} shows my processes of research for six questions that address various user needs. General internet research complemented USF's academic databases to answer the distinct queries.
+My [Reference Quest](img/reference_quest.pdf){target="_blank"} shows my processes of research for six questions that address various user needs. General internet research complemented USF's academic databases to answer the specific queries.
+
+------------------------------------------------------------------------
+
+My [Aesthetics Program Web Archive Proposal](Planning_a_web_archive_collection.pdf){target="_blank"} identifies relevant resources for an academic program that also includes hands-on learning for students and defines rights of use.
