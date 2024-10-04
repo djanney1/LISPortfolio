@@ -26,4 +26,4 @@ I learned the R programming language (LIS 5937), becoming familiar with RStudio 
 
 I also kept a [blog](https://www.tumblr.com/d-janney){target="_blank"} of assignments throughout the semester to track process and progress. (I'm sorry to say Tumblr now requires a log-in after so much scrolling, it wasn't always this way.)
 
-This portfolio website was created in RStudio and is hosted on GitHub.
+This portfolio website was created in RStudio and is hosted on GitHub! XD
