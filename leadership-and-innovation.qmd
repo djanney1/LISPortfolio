@@ -8,9 +8,9 @@ title: "Leadership and Innovation"
 
 **Project Proposal: QR Codes in Clearwater Countryside Library**
 
-The Clearwater Public Library System primarily depends on print materials to share information regarding library events, services, and policies, and overlooks the option of paperless dissemination of information. It is proposed the Clearwater Countryside branch pilots the display of quick-response (QR) code sheets featuring the most popular handouts to increase information accessibility, general outreach, and technological practices. The following document outlines a method of creating QR code sheets in Canva, includes a budget and timeline, and discusses additional uses for QR codes in the library.\
+The Clearwater Public Library System primarily depends on print materials to share information regarding library events, services, and policies, and overlooks the option of paperless dissemination of information. It is proposed the Clearwater Countryside branch pilots the display of quick-response (QR) code sheets featuring the most popular handouts to increase information accessibility, general outreach, and technological practices. The following document outlines a method of creating QR code sheets in Canva, includes a budget and timeline, and discusses additional uses for QR codes in the library.
 
-[Read full proposal here](img/qr-project-proposal.pdf){target="_blank"}
+[Read full proposal](img/qr-project-proposal.pdf){target="_blank"}
 
 ------------------------------------------------------------------------
 
