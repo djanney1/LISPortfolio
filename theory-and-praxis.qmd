@@ -14,6 +14,6 @@ From my essay [Leadership in Libraries: Theories and Competencies](img/leadershi
 
 For the duration of my semester in Collection Development and Maintenance, I utilized the Queens Public Library (NY) to configure my assignments that required qualitative and quantitative data to assess community needs:
 
--   Community Needs Assessment
+-   [Community Needs Assessment](img/community_needs_assessment.pdf){target="_blank"}
 
 -   Building a Balanced Collection
