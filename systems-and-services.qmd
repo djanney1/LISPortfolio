@@ -3,11 +3,9 @@ title: "Systems and Services"
 ---
 
 #### **The examples on this page identify diverse information resource needs of users.**
-use_git_config(user.name = "YourName", user.email = "your@mail.com"
 ------------------------------------------------------------------------
 
-I created a LibGuide usethis::use_git_config(user.name = "YourName", user.email = "your@mail.com")
-for the Ringling Brothers and Barnum & Bailey Circus that exhibits resources freely available on the internet from museums, archives, YouTube, and Google Books; details of print publications are also conveniently displayed.
+I created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that exhibits resources freely available on the internet from museums, archives, YouTube, and Google Books; details of print publications are also conveniently displayed.
 
 [![](img/libguide.png)](https://usflis.libguides.com/ringling-bros-and-barnum-and-bailey-circus)
 
