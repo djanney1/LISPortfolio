@@ -20,7 +20,7 @@ The Clearwater Countryside library patrons wanted to bring back movies on Sunday
 
 ![](img/summer_cinema1.jpg){width="361"}
 
-I was instructed to choose from movies available on [Swank's Public Libraries Movie Licensing website](https://www.swank.com/public-libraries/copyright/) and I also put together a flyer on Canva to share on social media (see above image).
+I was instructed to choose from movies available on [Swank's Public Libraries Movie Licensing website](https://www.swank.com/public-libraries/copyright/){target="_blank"} and I also put together a flyer on Canva to share on social media (see above image).
 
 After solidifying the films and dates for my program at work, I was assigned (in Collection Development & Maintenance) with creating a handout for a library staff's copyright professional development, so I focused on film.
 
