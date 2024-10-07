@@ -6,14 +6,20 @@ title: "Theory and Praxis"
 
 ------------------------------------------------------------------------
 
-From my essay [Leadership in Libraries: Theories and Competencies](img/leadership%20in%20libraries.pdf){target="_blank"}:
+**Leadership in Libraries: Theories and Competencies**
 
 > The most cited literature on library leadership would have one believe that it is an area unexplored and that its definition is elusive. However, there is one constant to focus on, and it is vision.
 
+[Read full research paper](img/leadership%20in%20libraries.pdf){target="_blank"}
+
 ------------------------------------------------------------------------
 
-For the duration of my semester in Collection Development and Maintenance, I utilized the Queens Public Library (NY) to configure my assignments that required qualitative and quantitative data to assess community needs:
+**My Hypothetical Queens Public Library**
+
+For the duration of my semester in Collection Development and Maintenance, I refered to the Queens Public Library (NY) for my assignments that utilized (real and fabricated) qualitative and quantitative data to assess community needs, build a more balanced collection, and develop a collection policy.
 
 -   [Community Needs Assessment](img/community_needs_assessment.pdf){target="_blank"}
 
 -   [Building a Balanced Collection](img/building_a_balanced_collection.pdf){target="_blank"}
+
+-   [Collection Development Policy](img/collection_policy.pdf){target="_blank"}
