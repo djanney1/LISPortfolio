@@ -15,8 +15,7 @@ title: "Leadership and Innovation"
 
 ### I.b. Students demonstrate effective communication skills.
 
-**LIS 6511 - Collection Development and Maintenance**
-**Copyright Professional Development**
+**LIS 6511 - Collection Development and Maintenance** **Copyright Professional Development**
 
 [View handout](img/copyright_development.pdf){target="_blank"}
 
@@ -25,7 +24,9 @@ title: "Leadership and Innovation"
 **Clearwater Countryside Library\
 Summer Cinema**
 
-The Clearwater Countryside library patrons wanted to bring back movies on Sundays after the COVID-19 hiatus and my branch manager suggested a library assistant could show them, so I volunteered. I was instructed to choose from movies from [Swank's Public Libraries Movie Licensing website](https://www.swank.com/public-libraries/copyright/){target="_blank"}, we worked out a schedule, and I put together a promotional post on Canva to share on social media. ![](img/summer_cinema1.jpg){width="361"}
+The Clearwater Countryside library patrons wanted to bring back movies on Sundays after the COVID-19 hiatus and my branch manager suggested a library assistant could show them, so I volunteered. I was instructed to choose from movies from [Swank's Public Libraries Movie Licensing website](https://www.swank.com/public-libraries/copyright/){target="_blank"}, we worked out a schedule, and I put together a promotional post on Canva to share on social media.
+
+![](img/summer_cinema1.jpg){width="361"}
 
 **Clearwater Countryside Library\
 Webinars**

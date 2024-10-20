@@ -8,9 +8,9 @@ title: "Certificates"
 -   [An Introduction to Passive Readers Advisory](img/pass_read_cert.pdf){target="_blank"}
 -   [Best Picture Books Published in 2022 for Ages 1-6](img/picture-books2022-cert.pdf){target="_blank"}
 -   [Cataloging 101 Part 1](img/cataloging101-cert.pdf){target="_blank"}
--   [Creating a Positive, Welcoming Workplace while Avoiding Toxic Positivity](img/positive-workplace-cer.pdf){target="_blank"}
+-   [Creating a Positive, Welcoming Workplace while Avoiding Toxic Positivity](img/positive-workplace-cert.pdf){target="_blank"}
 -   [Developing Guiding Principles: What Makes a Leader?](img/guiding-principles-cert.pdf){target="_blank"}
--   [Do Your Research](img/do-you-research-cer.pdf){target="_blank"}
+-   [Do Your Research](img/do-you-research-cert.pdf){target="_blank"}
 -   [Drones in the Library!](img/drones-cert.pdf){target="_blank"}
 -   [Effective Communication Skills for New(er) Supervisors](img/effective-communication-cert.pdf){target="_blank"}
 -   [Free and Low-Cost Library Programming](img/low_cost_prog_cert.pdf){target="_blank"}
@@ -24,10 +24,10 @@ title: "Certificates"
 -   [Misinformation, AI and Cospiracy Theories](img/misinfo_ai_cert.pdf){target="_blank"}
 -   [Patron Journey Mapping: Understand What Drives Patrons to Better Design Relevant Library Programming](img/journey_cert.pdf){target="_blank"}
 -   [Personal Knowledge Management: Strategies and Tools](img/personal-knowledge-cert.pdf){target="_blank"}
--   [Readers Advisory Year in Review 2022](img/readers-adv2022.pdf){target="_blank"}
+-   [Readers Advisory Year in Review 2022](img/readers-adv2022-cert.pdf){target="_blank"}
 -   [Reasoning With Unreasonable Patrons: 6 Secrets for Making It Work](img/reasoning-cert.pdf){target="_blank"}
 -   [Social Media and Accessibility](img/social_med_access_cert.pdf){target="_blank"}
--   [Social Media: What's Next?](img/social_med_next.pdf){target="_blank"}
+-   [Social Media: What's Next?](img/social_med_next_cert.pdf){target="_blank"}
 -   [Spreadsheet Skills to Wrangle Stats](img/spreadsheet_skills_cert.pdf){target="_blank"}
 -   [The Yellow Cake Principle: Your Recipe for Influence and Success](img/yellowcake-cert.pdf){target="_blank"}
 -   [Three-Dimensional and Naturally Occurring Objects](img/3d-objects-cert.pdf){target="_blank"}
