@@ -18,7 +18,7 @@ website:
     background: "#9CD5FF"
     search: false
     right:
-      - text: "Statement of Integrity"        
+      - text: "Statement of Integrity"
         href: statement-of-integrity.qmd
       - text: "Leadership and Innovation"
         href: leadership-and-innovation.qmd
