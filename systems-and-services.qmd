@@ -6,6 +6,20 @@ title: "Systems and Services"
 
 ------------------------------------------------------------------------
 
+### **II.a Students identify and analyze diverse information needs of individuals and communities.**
+
+**LIS 6603 - Basic Information Services and Sources\
+Reference Quest**
+
+My [Reference Quest](img/reference_quest.pdf){target="_blank"} shows my processes of research for six questions that address various user needs. General internet research complemented USF's academic databases to answer the specific queries.
+
+------------------------------------------------------------------------
+
+### **II.b. Students evaluate and select print and digital information resources and systems to meet needs of users.**
+
+**LIS 6603 - Basic Information Services and Sources\
+LibGuide**
+
 I created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that exhibits resources freely available on the internet from museums, archives, YouTube, and Google Books.
 
 [![](img/libguide.png)](https://usflis.libguides.com/ringling-bros-and-barnum-and-bailey-circus)
@@ -14,8 +28,9 @@ I created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that e
 
 ------------------------------------------------------------------------
 
-My [Reference Quest](img/reference_quest.pdf){target="_blank"} shows my processes of research for six questions that address various user needs. General internet research complemented USF's academic databases to answer the specific queries.
+### **II.c. Students understand and use appropriate information technology for information services.**
 
-------------------------------------------------------------------------
+**LIS 6515 - Web Archiving\
+Planning a Web Archive**
 
 My [Aesthetics Program Web Archive Proposal](img/Planning_a_web_archive_collection.pdf){target="_blank"} identifies relevant resources for an academic program that also includes hands-on learning for students and defends the rights of use of content.
