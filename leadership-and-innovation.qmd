@@ -2,32 +2,32 @@
 title: "Leadership and Innovation"
 ---
 
-#### **The examples on this page display my abilities to individually problem-solve and collaboratively communicate, engage in professional and community activities, and demonstrate leadership skills.**
+#### **The examples on this page display abilities to individually problem-solve and collaboratively communicate, engage in professional and community activities, and demonstrate leadership skills.**
 
-------------------------------------------------------------------------
+### I.a. Students are able to evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
+**LIS 5268 - Applications for Library Information Professionals**\
 **Project Proposal: QR Codes in Clearwater Countryside Library**
 
 > The Clearwater Public Library System primarily depends on print materials to share information regarding library events, services, and policies, and overlooks the option of paperless dissemination of information. It is proposed the Clearwater Countryside branch pilots the display of quick-response (QR) code sheets featuring the most popular handouts to increase information accessibility, general outreach, and technological practices. The following document outlines a method of creating QR code sheets in Canva, includes a budget and timeline, and discusses additional uses for QR codes in the library.
 
 [Read full proposal](img/qr-project-proposal.pdf){target="_blank"}
 
-------------------------------------------------------------------------
+### I.b. Students demonstrate effective communication skills.
 
-**Summer Cinema and Public Library Movie Licensing**
+**LIS 6511 - Collection Development and Maintenance**
+**Copyright Professional Development**
 
-The Clearwater Countryside library patrons wanted to bring back movies on Sundays after the COVID-19 hiatus and my branch manager suggested a library assistant could sit in on them (since the librarians tended to be shorter staffed), so I volunteered to research and put together a seasonal trial program.
+[View handout](img/copyright_development.pdf){target="_blank"}
 
-![](img/summer_cinema1.jpg){width="361"}
+### I.c. Students participate in professional and community engagement activities in the field.
 
-I was instructed to choose from movies available on [Swank's Public Libraries Movie Licensing website](https://www.swank.com/public-libraries/copyright/){target="_blank"} and I also put together a flyer on Canva to share on social media (see above image).
+**Clearwater Countryside Library\
+Summer Cinema**
 
-After solidifying the films and dates for my program at work, I was assigned (in Collection Development & Maintenance) with creating a handout for a library staff's copyright professional development, so I focused on film.
+The Clearwater Countryside library patrons wanted to bring back movies on Sundays after the COVID-19 hiatus and my branch manager suggested a library assistant could show them, so I volunteered. I was instructed to choose from movies from [Swank's Public Libraries Movie Licensing website](https://www.swank.com/public-libraries/copyright/){target="_blank"}, we worked out a schedule, and I put together a promotional post on Canva to share on social media. ![](img/summer_cinema1.jpg){width="361"}
 
-[View Copyright Professional Development handout](img/copyright_development.pdf){target="_blank"}
+**Clearwater Countryside Library\
+Webinars**
 
-------------------------------------------------------------------------
-
-**Webinars**
-
-I have completed over 20 webinars presented by [Florida Library Webinars](https://floridalibrarywebinars.org/){target="_blank"} since the beginning of my library career in February 2022. View my certificates here: [![](img/certificate_banner.png)](certificates.qmd)
+I have completed dozens of webinars presented by [Florida Library Webinars](https://floridalibrarywebinars.org/){target="_blank"} since beginning work for the Clearwater Public Library System in 2022. [![](img/certificate_banner.png)](certificates.qmd){target="_blank"}
