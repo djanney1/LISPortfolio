@@ -39,5 +39,6 @@ format:
   html:
     theme: cosmo
     toc: false
+    mainfont: Times New Roman
 
 editor: source
