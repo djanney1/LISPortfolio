@@ -23,11 +23,12 @@ Understanding Metadata**
 ### **III.b. Students identify and apply best practices in the use of different technologies for knowledge representation.**
 
 **LIS 5937 - R Programming\
-Data Visualization**\
+Data Visualization**
+
 I learned the R programming language, becoming familiar with RStudio and GitHub. I utilized a sample of my own food delivery data to ultimately create an [R package](https://github.com/djanney1/deliverystats/tree/master){target="_blank"} and [Markdown](https://rpubs.com/djanney1/deliverystats){target="_blank"} to compare days of the week, order totals, and tips received (sampled below).
 
 ![](img/Rdelivery.png)
 
-I also kept a [blog](https://www.tumblr.com/d-janney){target="_blank"} of assignments throughout the semester to track process and progress. (I'm sorry to say Tumblr now requires a log-in after so much scrolling, it wasn't always this way.)
+I also kept a [blog](https://www.tumblr.com/d-janney){target="_blank"} of assignments throughout the semester to track process and progress.
 
 This portfolio website was created in RStudio and is hosted on GitHub! XD
