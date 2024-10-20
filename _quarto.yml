@@ -5,7 +5,9 @@ project:
 website:
   page-navigation: true
   title: "Danielle Janney's Portfolio"
-    
+  format:
+    html:
+      mainfont: Times New Roman
   page-footer:
     left: "&copy; Copyright 2024, Danielle Janney"
     right:
@@ -31,9 +33,9 @@ website:
       - text: "More"
         menu: 
           - text: "CV"
-            href: img/cv.pdf{target="_blank"}
+            href: img/cv.pdf
           - text: "Art"
-            href: art.qmd{target="_blank"}
+            href: art.qmd
         
 format:
   html:
