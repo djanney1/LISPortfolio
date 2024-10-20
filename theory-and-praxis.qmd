@@ -6,7 +6,8 @@ title: "Theory and Praxis"
 
 ------------------------------------------------------------------------
 
-**Leadership in Libraries: Theories and Competencies**
+**LIS 6409 - Introduction to Library Administration\
+Leadership in Libraries: Theories and Competencies**
 
 > The most cited literature on library leadership would have one believe that it is an area unexplored and that its definition is elusive. However, there is one constant to focus on, and it is vision.
 
@@ -14,9 +15,10 @@ title: "Theory and Praxis"
 
 ------------------------------------------------------------------------
 
-**My Hypothetical Queens Public Library**
+**LIS 6511 - Collection Development and Maintenance\
+My Hypothetical Queens Public Library**
 
-For the duration of my semester in Collection Development and Maintenance, I refered to the Queens Public Library (NY) for my assignments that utilized (real and fabricated) qualitative and quantitative data to assess community needs, build a more balanced collection, and develop a collection policy.
+I referred to the Queens Public Library (NY) for my assignments that utilized (real and fabricated) qualitative and quantitative data to assess community needs, build a more balanced collection, and develop a collection policy.
 
 -   [Community Needs Assessment](img/community_needs_assessment.pdf){target="_blank"}
 
