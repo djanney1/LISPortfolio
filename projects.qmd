@@ -1,6 +1,7 @@
 ---
 title: "LIS Projects"
 ---
+## [Statement of Integrity](statement-of-integrity.html)
 
 ## [Leadership and Innovation](leadership-and-innovation.html)
 
