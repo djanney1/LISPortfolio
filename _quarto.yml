@@ -5,9 +5,7 @@ project:
 website:
   page-navigation: true
   title: "Danielle Janney's Portfolio"
-  format:
-    html:
-      mainfont: Times New Roman
+
   page-footer:
     left: "&copy; Copyright 2024, Danielle Janney"
     right:
@@ -18,7 +16,7 @@ website:
     
   navbar:
     background: "#9CD5FF"
-    search: true
+    search: false
     right:
       - text: "Statement of Integrity"        
         href: statement-of-integrity.qmd
