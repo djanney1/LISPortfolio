@@ -6,14 +6,7 @@ title: "Theory and Praxis"
 
 ------------------------------------------------------------------------
 
-**LIS 6409 - Introduction to Library Administration\
-Leadership in Libraries: Theories and Competencies**
-
-> The most cited literature on library leadership would have one believe that it is an area unexplored and that its definition is elusive. However, there is one constant to focus on, and it is vision.
-
-[Read full research paper](img/leadership%20in%20libraries.pdf){target="_blank"}
-
-------------------------------------------------------------------------
+### **IV.a. Students will describe applications of quantitative and qualitative research methodologies in library and information science.**
 
 **LIS 6511 - Collection Development and Maintenance\
 My Hypothetical Queens Public Library**
@@ -25,3 +18,14 @@ I referred to the Queens Public Library (NY) for my assignments that utilized (r
 -   [Building a Balanced Collection](img/building_a_balanced_collection.pdf){target="_blank"}
 
 -   [Collection Development Policy](img/collection_policy.pdf){target="_blank"}
+
+------------------------------------------------------------------------
+
+### **IV.b. Students will identify opportunities for research and develop plans for research in applied settings in library and information science.**
+
+**LIS 6409 - Introduction to Library Administration\
+Leadership in Libraries: Theories and Competencies**
+
+> The most cited literature on library leadership would have one believe that it is an area unexplored and that its definition is elusive. However, there is one constant to focus on, and it is vision.
+
+[Read full research paper](img/leadership%20in%20libraries.pdf){target="_blank"}
