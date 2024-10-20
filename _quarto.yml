@@ -38,6 +38,6 @@ website:
 format:
   html:
     theme: cosmo
-    toc: true
+    toc: false
 
 editor: source
