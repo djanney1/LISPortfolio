@@ -18,6 +18,8 @@ website:
     background: "#9CD5FF"
     search: true
     right:
+      - text: "Statement of Integrity"        
+        href: statement-of-integrity.qmd
       - text: "Leadership and Innovation"
         href: leadership-and-innovation.qmd
       - text: "Systems and Services"
@@ -29,9 +31,9 @@ website:
       - text: "More"
         menu: 
           - text: "CV"
-            href: img/cv.pdf
+            href: img/cv.pdf{target="_blank"}
           - text: "Art"
-            href: art.qmd
+            href: art.qmd{target="_blank"}
         
 format:
   html:
