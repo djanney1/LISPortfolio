@@ -31,4 +31,4 @@ I created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that e
 **LIS 6515 - Web Archiving\
 Planning a Web Archive**
 
-My [Aesthetics Program Web Archive Proposal](img/Planning_a_web_archive_collection.pdf){target="_blank"} identifies relevant resources for an academic program that also includes hands-on learning for students and defends the rights of use of content.
+My [Aesthetics Program Web Archive Proposal](img/Planning_a_web_archive_collection.pdf){target="_blank"} identifies relevant resources and software for a new academic program's web archive.
