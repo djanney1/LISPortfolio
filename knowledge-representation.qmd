@@ -6,29 +6,16 @@ title: "Knowledge Representation"
 
 ### **III.a. Students analyze, organize and describe various formats of information objects.**
 
-**LIS 6726 - Metadata\
-Danielle Janney Collection**
+**LIS 6726 - [The Danielle Janney Collection](https://usfseahorse.omeka.net/collections/show/1){target="_blank"}**
 
-The Danielle Janney Collection is one part of a greater group project focused on cataloging natural history objects from Florida. The project is hosted on Omeka and uses Dublin Core to describe the metadata of the selected resources. [![](img/danielle-janney-collection.png)](https://usfseahorse.omeka.net/collections/show/1){target="_blank"}
-
-**LIS 6726 - Metadata\
-Understanding Metadata**
-
-> Metadata in a highly digitized world is transforming the world's access to information. Search engines at personal and institutional levels relay thousands of query results in less than a second. Interoperability of metadata schema within collections face the challenge of effective crosswalks while preparing for the next phase of Linked Data and entity relationship models. Metadata is not a new concept, but how it is interacted with is breaking ground to unite the information landscape.
-
-[Read full essay](img/understanding_metadata.pdf){target="_blank"}
+The Danielle Janney Collection is one part of a greater group project focused on cataloging and describing natural history objects from Florida using the Dublin Core metadata schema.
 
 ------------------------------------------------------------------------
 
 ### **III.b. Students identify and apply best practices in the use of different technologies for knowledge representation.**
 
-**LIS 5937 - R Programming\
-Data Visualization**
+**LIS 5937 - [R Programming](https://rpubs.com/djanney1/deliverystats){target="_blank"}**
 
-I learned the R programming language, becoming familiar with RStudio and GitHub. I utilized a sample of my own food delivery data to ultimately create an [R package](https://github.com/djanney1/deliverystats/tree/master){target="_blank"} and [Markdown](https://rpubs.com/djanney1/deliverystats){target="_blank"} to compare days of the week, order totals, and tips received (sampled below).
+I learned the R programming language, becoming familiar with RStudio and GitHub, to develop a package and a visual document of my collected data. A [blog](https://www.tumblr.com/d-janney){target="_blank"} kept during the class shows other visual representations.
 
-![](img/Rdelivery.png)
-
-I also kept a [blog](https://www.tumblr.com/d-janney){target="_blank"} of assignments throughout the semester to track process and progress.
-
-This portfolio website was created in RStudio and is hosted on GitHub! XD
+This portfolio website was developed in RStudio and is hosted on GitHub.
