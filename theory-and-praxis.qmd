@@ -8,10 +8,13 @@ title: "Theory and Praxis"
 
 ### **IV.a. Students will describe applications of quantitative and qualitative research methodologies in library and information science.**
 
-**LIS 6511 - Collection Development and Maintenance\
-My Hypothetical Queens Public Library**
+**LIS 6271 - [A Proposed Study on the Effects of Prioritizing Diverse Material in a Public Library's Book Displays](img/Draft_3_6271.pdf){target="_blank"}**
 
-I referred to the Queens Public Library (NY) for my assignments that utilized (real and fabricated) qualitative and quantitative data to assess community needs, build a more balanced collection, and develop a collection policy.
+In this group project, with a literature review focused on increasing circulation of materials based on high-traffic locations in a library and applying a mixed-methods approach to gathering data, our group proposed displaying diverse materials in a public library and collecting survey and interview responses from patrons to better understand the factors of their choices.
+
+**LIS 6511 - The Flushing Neighborhood Libraries in the Queens, NY**
+
+I referred to the Queens Public Library for my assignments that utilized (real and fabricated) qualitative and quantitative data to assess Flushing community needs, build a more balanced collection, and develop a collection policy.
 
 -   [Community Needs Assessment](img/community_needs_assessment.pdf){target="_blank"}
 
@@ -19,28 +22,14 @@ I referred to the Queens Public Library (NY) for my assignments that utilized (r
 
 -   [Collection Development Policy](img/collection_policy.pdf){target="_blank"}
 
-**LIS 6271 - Research Methods in Library and Information Science\
-A Proposed Study on the Effects of Prioritizing Diverse Material\
-in a Public Library's Book Displays (group project)**
-
-With a literature review focused on increasing circulation of materials based on high-traffic locations in a library and applying a mixed-methods approach to gathering data, our group proposed displaying diverse materials in a public library and collecting survey and interview responses from patrons to better understand the factors of their choices.
-
-[Read full research proposal](img/Draft_3_6271.pdf){target="_blank"}
-
 ------------------------------------------------------------------------
 
 ### **IV.b. Students will identify opportunities for research and develop plans for research in applied settings in library and information science.**
 
-**LIS 6711 - Organization of Knowledge I\
-Music Cataloging and Music Database Websites**
+**LIS 5937 - [Knowledge Sharing Among Peers](img/peer.pdf){target="_blank"}**
 
-> This research paper will look at structures used and some challenges in cataloging popular music; as well, music database websites will be examined and how their cataloging methods offer guidance to the future of BIBFRAME, FRBR, and RDA
+Peer knowledge sharing is an underdeveloped concept in knowledge management research that I have since applied with new, immediate coworkers. I believe it has put me in a trusted position and has made the workspace better for it. Without evidence, though, I am interested in how it could be better managed.
 
-[Read full research paper here](img/music_cataloging.pdf){target="_blank"}
+**LIS 6409 - [Leadership in Libraries: Theories and Competencies](img/leadership%20in%20libraries.pdf){target="_blank"}**
 
-**LIS 6409 - Introduction to Library Administration\
-Leadership in Libraries: Theories and Competencies**
-
-> The most cited literature on library leadership would have one believe that it is an area unexplored and that its definition is elusive. However, there is one constant to focus on, and it is vision.
-
-[Read full research paper](img/leadership%20in%20libraries.pdf){target="_blank"}
+In my research of library leadership, I learned it is not dissimilar from other organizational leadership positions, yet it is unique to those who conduct research about it. I see myself as a leader, someone who is supportive and reliable. With my coworkers (mostly other library assistants), I analyze how they approach their role, relationships with others, and I gain an understanding of them; I use my understandings to minimize conflict, sympathize, and overcome collective challenges. Personalities are bound to clash at some point and it is this that leads me into research of conflict management, into being an information professional above anything else.
