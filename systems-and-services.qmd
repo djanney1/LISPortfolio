@@ -8,27 +8,26 @@ title: "Systems and Services"
 
 ### **II.a Students identify and analyze diverse information needs of individuals and communities.**
 
-**LIS 6603 - Basic Information Services and Sources\
-Reference Quest**
+**LIS 6511 - [Building a Balanced Collection](img/building_a_balanced_collection.pdf){target="_blank"}**
 
-My [Reference Quest](img/reference_quest.pdf){target="_blank"} shows my processes of research for six questions that address various user needs. General internet research complemented USF's academic databases to answer the specific queries.
+After conducting a community needs assessment, I identify and analyze the libraries' current collections to compare to the needs of Queens, New York's Flushing neighborhood library members in this diversity audit.
+
+------------------------------------------------------------------------
 
 ### **II.b. Students evaluate and select print and digital information resources and systems to meet needs of users.**
 
-**LIS 6603 - Basic Information Services and Sources\
-LibGuide**
+**LIS 6603 - [Ringling Brothers and Barnum & Bailey Circus LibGuide](https://usflis.libguides.com/ringling-bros-and-barnum-and-bailey-circus){target="_blank"}**
 
-I created a LibGuide for the Ringling Brothers and Barnum & Bailey Circus that exhibits resources freely available on the internet from museums, archives, YouTube, and Google Books.
+In this LibGuide, I focused on finding and selecting digital resources that are free to use on the internet from museums, archives, YouTube, and Google Books; print books listed can be found in USF's libraries.
 
-[![](img/libguide.png)](https://usflis.libguides.com/ringling-bros-and-barnum-and-bailey-circus)
+**LIS 6603 - [Reference Quest](img/reference_quest.pdf){target="_blank"}**
 
-~click image to view LibGuide~
+The questions posed in this document show my skill and ability to utilize databases and search engines to answer questions of various subjects.
 
 ------------------------------------------------------------------------
 
 ### **II.c. Students understand and use appropriate information technology for information services.**
 
-**LIS 6515 - Web Archiving\
-Planning a Web Archive**
+**LIS 6515 - [Aesthetics Program Web Archive Proposal](img/Planning_a_web_archive_collection.pdf){target="_blank"}**
 
-My [Aesthetics Program Web Archive Proposal](img/Planning_a_web_archive_collection.pdf){target="_blank"} identifies relevant resources and software for a new academic program's web archive.
+In my proposal to develop a new program's web archive, I designated web crawling and scraping software, storage options, resources, and a workflow; these measures indicate I understand how a web archive operates and is utilized by end users.
