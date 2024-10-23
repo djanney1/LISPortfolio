@@ -18,6 +18,6 @@ The Danielle Janney Collection is one part of a greater group project focused on
 
 **LIS 5937 - [R Programming](https://rpubs.com/djanney1/deliverystats){target="_blank"}**
 
-I learned the R programming language, becoming familiar with RStudio and GitHub, to develop a package and a visual document of my collected data. A [blog](https://www.tumblr.com/d-janney){target="_blank"} kept during the class shows other visual representations.
+I learned the R programming language, becoming familiar with RStudio and GitHub, to develop a package and a visual document of my collected data. A [Tumblr blog](https://www.tumblr.com/d-janney){target="_blank"} kept during the class shows other visual representations.
 
 This portfolio website was developed in RStudio and is hosted on GitHub.
