@@ -4,9 +4,9 @@ title: "Knowledge Representation"
 
 #### **The examples provided on this page theorize and apply skills needed to represent information objects of various formats and utilize different technologies for knowledge representation.**
 
-### **III.a. Students analyze, organize and describe various formats of information objects.**
-
 ------------------------------------------------------------------------
+
+### **III.a. Students analyze, organize and describe various formats of information objects.**
 
 **LIS 6726 - [The Danielle Janney Collection](https://usfseahorse.omeka.net/collections/show/1){target="_blank"}**
 
