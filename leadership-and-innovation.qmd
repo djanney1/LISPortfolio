@@ -2,7 +2,7 @@
 title: "Leadership and Innovation"
 ---
 
-#### **The examples on this page display abilities to individually problem-solve and collaboratively communicate, engage in professional and community activities, and demonstrate leadership skills.**
+#### **The examples on this page display abilities to individually problem-solve and collaboratively communicate, engage in professional and community activities, and demonstrate leadership.**
 
 ### I.a. Students are able to evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
@@ -10,7 +10,15 @@ title: "Leadership and Innovation"
 
 In this project proposal, I evaluated the accessibility of popular printed library handouts and developed a method to increase and/or supplement their distribution by way of QR codes.
 
+**LIS 5937 - [Knowledge Management Improvement Plan](img/KM_group.pdf){target="_blank"}**
+
+This group project focused on the knowledge sharing system within a public library system. Within the this project I was tasked with editing, the System and Inferface Design section, and formatting the budget and timeline elements.
+
 ### I.b. Students demonstrate effective communication skills.
+
+**LIS 5020 - [Roles of Managers in Information Organizations](img/manager_poster.png){target="_blank"}**
+
+This poster concisely and effectively communicates skills and strategies of successful managers in information organizations.
 
 **LIS 6511 - [Copyright Professional Development](img/copyright_development.pdf){target="_blank"}**
 
@@ -20,11 +28,12 @@ I effectively communicated copyright and the licensing of publicly screened movi
 
 **Clearwater Countryside Library - [Summer Cinema](img/summer_cinema1.jpg){target="_blank"} and [Webinars](certificates.qmd){target="_blank"}**
 
-I engaged with the community when I volunteered to manage and oversee a movie series over the summer. I collaborated with my branch manager to work out the dates, selected an array of new movies from [Swank's Public Libraries Movie Licensing website](https://www.swank.com/public-libraries/copyright/){target="_blank"}, and put together a promotional post to share on social media.
+As an employee, I engaged with the community when I volunteered to manage and oversee a movie series over the summer. I collaborated with my branch manager to work out the dates, selected an array of newly released movies from [Swank's Public Libraries Movie Licensing website](https://www.swank.com/public-libraries/copyright/){target="_blank"}, and put together a promotional post to share on social media.
 
 As well, I have participated in further professional development by completing dozens of webinars since my employment in 2022.
 
 ### I.d. Students demonstrate leadership skills and innovation in a diverse and global environment.
 
-LIS Knowledge Management\
-Knowledge Sharing Among Peers
+**LIS 6511 - [Community Needs Assessment](img/community_needs_assessment.pdf){target="_blank"}**
+
+In this assessment, I chose to utilize the diverse population of the Flushing neighborhood libraries in the Queens Public Library system. Using real U.S. Census data and my own experience with library patrons, I communicated user needs within a multi-ethnic community; constructed staff and Congress member feedback; and proposed actions to include and attract more members of the community to the libraries.
