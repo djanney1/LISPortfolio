@@ -4,6 +4,8 @@ title: "Leadership and Innovation"
 
 #### **The examples on this page display abilities to individually problem-solve and collaboratively communicate, engage in professional and community activities, and demonstrate leadership.**
 
+------------------------------------------------------------------------
+
 ### I.a. Students are able to evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
 **LIS 5268 - [Project Proposal: QR Codes in Clearwater Countryside Library](img/qr-project-proposal.pdf){target="_blank"}**
@@ -13,6 +15,8 @@ In this project proposal, I evaluated the accessibility of popular printed libra
 **LIS 5937 - [Knowledge Management Improvement Plan](img/KM_group.pdf){target="_blank"}**
 
 This group project focused on the knowledge sharing system within a public library system. Within the this project I was tasked with editing, the System and Inferface Design section, and formatting the budget and timeline elements.
+
+------------------------------------------------------------------------
 
 ### I.b. Students demonstrate effective communication skills.
 
@@ -24,6 +28,12 @@ This poster concisely and effectively communicates skills and strategies of succ
 
 I effectively communicated copyright and the licensing of publicly screened movies in a library with a digital handout for library employees.
 
+**LIS 6711 - [Understanding Metadata](understanding_metadata.pdf){target="_blank"}**
+
+In this paper, I explain metadata in layman's terms--as a way to understand the concepts myself and to explain it to others.
+
+------------------------------------------------------------------------
+
 ### I.c. Students participate in professional and community engagement activities in the field.
 
 **Clearwater Countryside Library - [Summer Cinema](img/summer_cinema1.jpg){target="_blank"} and [Webinars](certificates.qmd){target="_blank"}**
@@ -31,6 +41,8 @@ I effectively communicated copyright and the licensing of publicly screened movi
 As an employee, I engaged with the community when I volunteered to manage and oversee a movie series over the summer. I collaborated with my branch manager to work out the dates, selected an array of newly released movies from [Swank's Public Libraries Movie Licensing website](https://www.swank.com/public-libraries/copyright/){target="_blank"}, and put together a promotional post to share on social media.
 
 As well, I have participated in further professional development by completing dozens of webinars since my employment in 2022.
+
+------------------------------------------------------------------------
 
 ### I.d. Students demonstrate leadership skills and innovation in a diverse and global environment.
 
