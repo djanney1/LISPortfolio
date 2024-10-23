@@ -16,6 +16,10 @@ The Danielle Janney Collection is one part of a greater group project focused on
 
 ### **III.b. Students identify and apply best practices in the use of different technologies for knowledge representation.**
 
+**LIS 5937 - [Graphic Novels: Horror for Adults](https://janneyhorrorgraphicnovelslibguide.my.canva.site/){target="_blank"}**
+
+I created this Canva slideshow to act as a LibGuide. My use of Canva in this way exemplifies how I can use its software to make it appear how I want it to.
+
 **LIS 5937 - [R Programming](https://rpubs.com/djanney1/deliverystats){target="_blank"}**
 
 I learned the R programming language, becoming familiar with RStudio and GitHub, to develop a package and a visual document of my collected data. A [Tumblr blog](https://www.tumblr.com/d-janney){target="_blank"} kept during the class shows other visual representations.
