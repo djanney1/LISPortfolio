@@ -6,6 +6,8 @@ title: "Knowledge Representation"
 
 ### **III.a. Students analyze, organize and describe various formats of information objects.**
 
+------------------------------------------------------------------------
+
 **LIS 6726 - [The Danielle Janney Collection](https://usfseahorse.omeka.net/collections/show/1){target="_blank"}**
 
 The Danielle Janney Collection is one part of a greater group project focused on cataloging and describing natural history objects from Florida using the Dublin Core metadata schema.
