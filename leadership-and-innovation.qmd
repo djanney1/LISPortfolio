@@ -6,29 +6,25 @@ title: "Leadership and Innovation"
 
 ### I.a. Students are able to evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
-**LIS 5268 - Applications for Library Information Professionals**\
-**Project Proposal: QR Codes in Clearwater Countryside Library**
+**LIS 5268 - [Project Proposal: QR Codes in Clearwater Countryside Library](img/qr-project-proposal.pdf){target="_blank"}**
 
-> The Clearwater Public Library System primarily depends on print materials to share information regarding library events, services, and policies, and overlooks the option of paperless dissemination of information. It is proposed the Clearwater Countryside branch pilots the display of quick-response (QR) code sheets featuring the most popular handouts to increase information accessibility, general outreach, and technological practices. The following document outlines a method of creating QR code sheets in Canva, includes a budget and timeline, and discusses additional uses for QR codes in the library.
-
-[Read full proposal](img/qr-project-proposal.pdf){target="_blank"}
+In this project proposal, I evaluated the accessibility of popular printed library handouts and developed a method to increase and/or supplement their distribution by way of QR codes.
 
 ### I.b. Students demonstrate effective communication skills.
 
-**LIS 6511 - Collection Development and Maintenance** **Copyright Professional Development**
+**LIS 6511 - [Copyright Professional Development](img/copyright_development.pdf){target="_blank"}**
 
-[View handout](img/copyright_development.pdf){target="_blank"}
+I effectively communicated copyright and the licensing of publicly screened movies in a library with a digital handout for library employees.
 
 ### I.c. Students participate in professional and community engagement activities in the field.
 
-**Clearwater Countryside Library\
-Summer Cinema**
+**Clearwater Countryside Library - [Summer Cinema](img/summer_cinema1.jpg){target="_blank"} and [Webinars](certificates.qmd){target="_blank"}**
 
-The Clearwater Countryside library patrons wanted to bring back movies on Sundays after the COVID-19 hiatus and my branch manager suggested a library assistant could show them, so I volunteered. I was instructed to choose from movies from [Swank's Public Libraries Movie Licensing website](https://www.swank.com/public-libraries/copyright/){target="_blank"}, we worked out a schedule, and I put together a promotional post on Canva to share on social media.
+I engaged with the community when I volunteered to manage and oversee a movie series over the summer. I collaborated with my branch manager to work out the dates, selected an array of new movies from [Swank's Public Libraries Movie Licensing website](https://www.swank.com/public-libraries/copyright/){target="_blank"}, and put together a promotional post to share on social media.
 
-![](img/summer_cinema1.jpg){width="361"}
+As well, I have participated in further professional development by completing dozens of webinars since my employment in 2022.
 
-**Clearwater Countryside Library\
-Webinars**
+### I.d. Students demonstrate leadership skills and innovation in a diverse and global environment.
 
-I have completed dozens of webinars presented by [Florida Library Webinars](https://floridalibrarywebinars.org/){target="_blank"} since beginning work for the Clearwater Public Library System in 2022. [![](img/certificate_banner.png)](certificates.qmd){target="_blank"}
+LIS Knowledge Management\
+Knowledge Sharing Among Peers
