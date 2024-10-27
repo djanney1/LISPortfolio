@@ -14,7 +14,7 @@ In this project proposal, I evaluated the accessibility of popular printed libra
 
 **LIS 5937 - [Knowledge Management Improvement Plan](img/KM_group.pdf){target="_blank"}**
 
-This group project focused on the knowledge sharing system within a public library system. For this project I was tasked with editing, the System and Inferface Design section, and formatting the budget and timeline elements.
+This group project focused on the knowledge sharing system of a public library system. I collaborated and solved problems relating to the document's editing, the System and Interface Design section, and formatting the budget and timeline elements.
 
 ------------------------------------------------------------------------
 
