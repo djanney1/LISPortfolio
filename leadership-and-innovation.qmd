@@ -28,7 +28,7 @@ This poster concisely and effectively communicates skills and strategies of succ
 
 I effectively communicated copyright and the licensing of publicly screened movies in a library with a digital handout for library employees.
 
-**LIS 6711 - [Understanding Metadata](understanding_metadata.pdf){target="_blank"}**
+**LIS 6711 - [Understanding Metadata](img/understanding_metadata.pdf){target="_blank"}**
 
 In this paper, I explain metadata in layman's terms--as a way to understand the concepts myself and to explain it to others.
 
