@@ -8,7 +8,7 @@ title: "Theory and Praxis"
 
 ### **IV.a. Students will describe applications of quantitative and qualitative research methodologies in library and information science.**
 
-**LIS 6271 - [A Proposed Study on the Effects of Prioritizing Diverse Material in a Public Library's Book Displays](img/Draft_3_6271.pdf){target="_blank"}**
+**LIS 6271 - [A Proposed Study on the Effects of Prioritizing Diverse Material in a Public Library's Book Displays](img/diverse_displays.pdf){target="_blank"}**
 
 In this group project, with a literature review focused on increasing circulation of materials based on high-traffic locations in a library and applying a mixed-methods approach to gathering data; our group proposed displaying diverse materials in a public library, and collecting survey and interview responses from patrons to better understand the factors of their choices.
 
