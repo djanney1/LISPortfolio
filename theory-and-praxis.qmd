@@ -8,11 +8,13 @@ title: "Theory and Praxis"
 
 ### **IV.a. Students will describe applications of quantitative and qualitative research methodologies in library and information science.**
 
-**LIS 6271 - [A Proposed Study on the Effects of Prioritizing Diverse Material in a Public Library's Book Displays](img/diverse_displays.pdf){target="_blank"}**
+**LIS 6271 - Research Methods in Library & Information Science\
+[A Proposed Study on the Effects of Prioritizing Diverse Material in a Public Library's Book Displays](img/diverse_displays.pdf){target="_blank"}**
 
 In this group project, with a literature review focused on increasing circulation of materials based on high-traffic locations in a library and applying a mixed-methods approach to gathering data; our group proposed displaying diverse materials in a public library, and collecting survey and interview responses from patrons to better understand the factors of their choices.
 
-**LIS 6511 - The Flushing Neighborhood Libraries in the Queens, NY**
+**LIS 6511 - Collection Development & Maintenance\
+The Flushing Neighborhood Libraries in the Queens, NY**
 
 I referred to the Queens Public Library for my assignments that utilized (real and fabricated) qualitative and quantitative data to assess Flushing community needs, build a more balanced collection, and develop a collection policy.
 
@@ -26,10 +28,12 @@ I referred to the Queens Public Library for my assignments that utilized (real a
 
 ### **IV.b. Students will identify opportunities for research and develop plans for research in applied settings in library and information science.**
 
-**LIS 5937 - [Knowledge Sharing Among Peers](img/peer.pdf){target="_blank"}**
+**LIS 5937 - Knowledge Management\
+[Knowledge Sharing Among Peers](img/peer.pdf){target="_blank"}**
 
 Peer knowledge sharing is an underdeveloped concept in knowledge management research that I have begun to apply with new, immediate coworkers since learning about it. I believe peer knowledge sharing can strengthen a workplace's moral and create bonds of trust. I am interested in the effects of this concept, researching and applying best practices.
 
-**LIS 6409 - [Leadership in Libraries: Theories and Competencies](img/leadership%20in%20libraries.pdf){target="_blank"}**
+**LIS 6409 - Introduction to Library Administration\
+[Leadership in Libraries: Theories and Competencies](img/leadership%20in%20libraries.pdf){target="_blank"}**
 
 In my research of library leadership, I learned it is not dissimilar from other organizational leadership positions, yet it is unique to those who conduct research about it. I see myself as a leader, someone who is supportive and reliable. With coworkers, I analyze how they approach their role, relationships with others, and gain an understanding of their personality; I apply my understandings to minimize conflict, sympathize, and overcome collective challenges. I am interested in researching more about the skills and leadership theories that would be most effective for different tiers of library leadership.
