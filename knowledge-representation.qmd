@@ -8,7 +8,8 @@ title: "Knowledge Representation"
 
 ### **III.a. Students analyze, organize and describe various formats of information objects.**
 
-**LIS 6726 - [The Danielle Janney Collection](https://usfseahorse.omeka.net/collections/show/1){target="_blank"}**
+**LIS 6726 - Metadata\
+[The Danielle Janney Collection](https://usfseahorse.omeka.net/collections/show/1){target="_blank"}**
 
 The Danielle Janney Collection is one part of a greater group project focused on cataloging and describing natural history objects from Florida using the Dublin Core metadata schema.
 
@@ -16,12 +17,14 @@ The Danielle Janney Collection is one part of a greater group project focused on
 
 ### **III.b. Students identify and apply best practices in the use of different technologies for knowledge representation.**
 
-**LIS 5937 - [Graphic Novels: Horror for Adults](https://janneyhorrorgraphicnovelslibguide.my.canva.site/){target="_blank"}**
+**LIS 5937 - Graphic Novels\
+[Graphic Novels: Horror for Adults](https://janneyhorrorgraphicnovelslibguide.my.canva.site/){target="_blank"}**
 
 I created this Canva slideshow to act as a LibGuide; this application exemplifies how I can use and manipulate Canva software to present information how I want.
 
-**LIS 5937 - [R Programming](https://rpubs.com/djanney1/deliverystats){target="_blank"}**
+**LIS 5937 - R Programming\
+[R Markdown](https://rpubs.com/djanney1/deliverystats){target="_blank"}**
 
-I learned the R programming language, becoming familiar with RStudio and GitHub, to develop a package and a visual document of my collected data. A [Tumblr blog](https://www.tumblr.com/d-janney){target="_blank"} kept during the class shows other visual representations.
+I learned the R programming language, becoming familiar with RStudio and GitHub, to develop a package and a visual document (R Markdown) of my collected data. A [Tumblr blog](https://www.tumblr.com/d-janney){target="_blank"} kept during the class shows other visual representations.
 
 This portfolio website was developed in RStudio and is hosted on GitHub.
