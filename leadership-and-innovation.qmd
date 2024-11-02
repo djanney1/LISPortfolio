@@ -8,11 +8,13 @@ title: "Leadership and Innovation"
 
 ### I.a. Students are able to evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
-**LIS 5268 - [Project Proposal: QR Codes in Clearwater Countryside Library](img/qr-project-proposal.pdf){target="_blank"}**
+**LIS 5268 - Applications for Information Professionals\
+[Project Proposal: QR Codes in Clearwater Countryside Library](img/qr-project-proposal.pdf){target="_blank"}**
 
 In this project proposal, I evaluated the accessibility of popular printed library handouts and developed a method to increase and/or supplement their distribution by way of QR codes.
 
-**LIS 5937 - [Knowledge Management Improvement Plan](img/KM_group.pdf){target="_blank"}**
+**LIS 5937 - Knowledge Management\
+[Knowledge Management Improvement Plan](img/KM_group.pdf){target="_blank"}**
 
 This group project focused on the knowledge sharing system of a public library system. I collaborated and solved problems relating to the document's editing, the System and Interface Design section, and formatting the budget and timeline elements.
 
@@ -20,15 +22,18 @@ This group project focused on the knowledge sharing system of a public library s
 
 ### I.b. Students demonstrate effective communication skills.
 
-**LIS 5020 - [Roles of Managers in Information Organizations](img/manager_poster.png){target="_blank"}**
+**LIS 5020 - Foundations of Library & Information Science\
+[Roles of Managers in Information Organizations](img/manager_poster.png){target="_blank"}**
 
 This poster concisely and effectively communicates skills and strategies of successful managers in information organizations.
 
-**LIS 6511 - [Copyright Professional Development](img/copyright_development.pdf){target="_blank"}**
+**LIS 6511 - Collection Development & Maintenance\
+[Copyright Professional Development](img/copyright_development.pdf){target="_blank"}**
 
 I effectively communicated copyright and the licensing of publicly screened movies in a library with a digital handout for library employees.
 
-**LIS 6711 - [Understanding Metadata](img/understanding_metadata.pdf){target="_blank"}**
+**LIS 6711 - Organization of Knowledge I\
+[Understanding Metadata](img/understanding_metadata.pdf){target="_blank"}**
 
 In this paper, I explain metadata in layman's terms--as a way to understand the concepts myself and to explain it to others.
 
@@ -46,6 +51,7 @@ As well, I have participated in further professional development by completing d
 
 ### I.d. Students demonstrate leadership skills and innovation in a diverse and global environment.
 
-**LIS 6511 - [Community Needs Assessment](img/community_needs_assessment.pdf){target="_blank"}**
+**LIS 6511 - Collection Development & Maintenance\
+[Community Needs Assessment](img/community_needs_assessment.pdf){target="_blank"}**
 
 In this assessment, I chose to utilize the diverse population of the Flushing neighborhood libraries in the Queens Public Library system. Using real U.S. Census data and my own experience with library patrons, I communicated user needs within a multi-ethnic community; constructed staff and Congress member feedback; and proposed actions to include and attract more members of the community to the libraries.
